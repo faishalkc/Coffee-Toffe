@@ -6,7 +6,7 @@ Built using HTML, CSS, and Bootstrap, this project focuses on delivering a clean
 
 ## Preview
 
-![Coffee Toffee Preview]()
+<img width="1920" height="2202" alt="bb71cd04-6b80-4c0d-abde-4b5d0b7839d5" src="https://github.com/user-attachments/assets/57d9d2ac-c730-451b-a582-bb3b238ff806" />
 
 ## Features
 
