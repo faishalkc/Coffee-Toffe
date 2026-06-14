@@ -54,7 +54,7 @@ git clone https://github.com/faishalkc/Coffee-Toffee.git
 
 ## Purpose
 
-This project was created to demonstrate the development of a responsive coffee shop landing page using fundamental front-end web technologies.
+To provide a responsive and informative landing page experience for Coffee Toffee, featuring company information, menu highlights, and brand presentation through a modern web interface.
 
 ## Author
 
