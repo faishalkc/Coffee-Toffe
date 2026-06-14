@@ -29,14 +29,15 @@ Built using HTML, CSS, and Bootstrap, this project focuses on delivering a clean
 
 ```text
 Coffee-Toffee/
-│
+├── dist/
+│   ├── css/
+│   └── js/
+├── gallery/
+├── menu/
 ├── index.html
-├── css/
-├── js/
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
+├── menu.html
+├── kontak.html
+└── tentang-kami.html
 ```
 
 ## Installation
